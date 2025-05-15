@@ -53,3 +53,8 @@
 
 ## Пример данных 📝
 Формат CSV:
+   ```sh
+   id,email,name,department,hours_worked,hourly_rate
+   1,alice@example.com,Alice Johnson,Marketing,160,50
+   2,bob@example.com,Bob Smith,Design,150,40
+   ```
